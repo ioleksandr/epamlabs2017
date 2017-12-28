@@ -1,0 +1,9 @@
+#install4j response file for Confluence 6.2.0
+#Thu Dec 07 19:31:03 EET 2017
+executeLauncherAction$Boolean=true
+app.install.service$Boolean=false
+sys.confirmedUpdateInstallationString=false
+launch.application$Boolean=true
+existingInstallationDir=/home/igogo/Confluence
+sys.languageId=en
+sys.installationDir=/home/igogo/atlassian/confluence
